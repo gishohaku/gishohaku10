@@ -23,8 +23,10 @@ CHAPS:
     - chap-publisher-masui.re
 
   - chap-title-sponsor.re:
-    - chap-sponsor-hatena.re
     - chap-sponsor-sakura.re
+    - chap-sponsor-kintone.re
+    - chap-sponsor-wealthnavi.re
+    - chap-sponsor-kikkake.re
 
   - chap-title-staff.re:
     - chap-staff-circle-definition.re
