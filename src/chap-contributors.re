@@ -5,7 +5,7 @@
 //embed{
 
 \contributor{ariaki}{@ariaki4dev}{images/contributors/ariaki4dev.png}{
-オフラインイベントが戻ってきたぞいやっほううううう！今年はいろんなイベントが再開の年になって、カレンダーに楽しみなスケジュールが増えてきましたね。技書博以外にもどこかのカンファレンスや勉強会の会場でも皆さんに会えるの楽しみです。
+技書博がついに10回目を迎えました。初回会場のPiO小展示ホールを予約したのが2019/2/23で、ちょうどその日はJAWSDAYS2019が開催されていたのを覚えてます。これからもイベントが続いて次は20回を祝えるといいな。
 }
 
 \contributor{おやかた（親方Project）}{@oyakata2438}{images/contributors/oyakata2438.png}{
