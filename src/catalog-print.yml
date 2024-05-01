@@ -11,16 +11,13 @@ CHAPS:
     - chap-info-stage.re
     - chap-info-award.re
     - chap-info-sponsors.re
+    - chap-taruzake.re
+    - chap-interview.re
 
   - chap-title-circle.re:
     - chap-circle-list.re
     - chap-circle-layout.re
     - chap-circle-appeals.re
-
-  - chap-title-publisher.re:
-    - chap-publisher-about.re
-    - chap-publisher-osawa.re
-    - chap-publisher-masui.re
 
   - chap-title-sponsor.re:
     - chap-sponsor-sakura.re

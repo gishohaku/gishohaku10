@@ -1,28 +1,7 @@
 = 協賛企業のご紹介
 
-== カフェサポーター
 
-//embed{
-\begin{center}
-    \vspace{10pt}
-    \includegraphics[width=0.5\linewidth]{images/chap-sponsor-index/technobrain.png}
-    \vspace{10pt}
-\end{center}
-//}
-
-@<em>{テクノブレーン株式会社}
-
-https://www.techno-brain.co.jp/
-
-テクノブレーン株式会社はエンジニア/技術者の方のキャリア支援をするヘッドハンティング型の転職エージェントです。
-
-主にキャリアパス面談～転職市場の情報提供、転職支援など様々な役割を務めさせて頂いております。
-企業の想いと、エンジニアの情熱に、誠実に応えること。この領域に特化して、30年積み重ねてきた弊社の実績は、どんな大企業でも一朝一夕には真似できない大きな成果だと感じています。
-ご遠慮なくお気軽にご相談頂けると幸いです。
-
-//pagebreak
-
-== ノベルティサポーター・アワードサポーター
+== アワードサポーター
 
 //embed{
 \begin{center}
@@ -42,31 +21,33 @@ https://systemi.co.jp/
 2023年9月にはビジネスチャット連携ツール「Pritell（プリテル）」https://pritell.chat/ のβ版をリリースしたほか、自社初の海外拠点となるアメリカオフィスを開設しました。
 
 
-//pagebreak
+
 
 == サポーター
+
+ウェルスナビ
+
+
 
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/timee.png}
+    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/kintone.png}
     \vspace{10pt}
 \end{center}
 //}
 
-@<em>{株式会社タイミー}
+@<em>{NPO法人LPI-Japan}
 
-https://timee.co.jp/
+https://lpi.or.jp/
 
-https://timee.notion.site/timee/Timee-Product-Org-Entrance-Book-b7380eb4f6954e29b2664fe6f5e775f9
+LPI-Japanは、Linux技術者認定「LinuC（リナック）」などの技術者認定試験の実施を通じて、ITエンジニアの成長と活躍を支援するNPO団体です。その認定試験の開発は、ITエンジニアが参加するコミュニティの協力を得て行われており、その他の活動も多くのボランティアの皆様と一緒に行なっています。
 
-私達タイミーは「『働く』を通じて人生の可能性を広げるインフラをつくる」ことをミッションに掲げ、「働く」を通じて、自分の可能性を広げ、目を輝かせて生きる人々に溢れた社会の実現を目指しています。
+また、ITエンジニアを目指す初学者向けの教材として無償で公開（製本版は有償）している「Linux標準教科書」や「サーバー構築標準教科書」などは、Linuxの操作やサーバー構築に必要な知識を体系立てて学べる教材として、多くの皆様にご利用いただいています。
 
-現在のタイミーは、信頼性の高い社会インフラを目指していくという次の飛躍にむけ、システム・プロダクト・プロセス・組織を変化させていくフェーズです。
 
-持続可能な状態でのスケールを目指しているため、変化と適応の両面を意識しエンジニアリングで課題を解決していける仲間を探しています。
 
-　
+キッカケクリエイション
 
 　
 
@@ -86,33 +67,24 @@ https://kintone.cybozu.co.jp/
 
 業務改善ツールのkintone（キントーン）は、ノーコードで業務用アプリを作成できる一方でAPIも提供しています。そのため様々なモノやサービスとの連携が可能で、企業に限らず、学校、サークル、PTA、NPOといった様々な場所で活用いただけます。
 
-//embed{
-\begin{center}
-    \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/helpfeel.png}
-    \vspace{10pt}
-\end{center}
-//}
-
-@<em>{株式会社Helpfeel}
-
-https://corp.helpfeel.com/ja/home
-
-株式会社Helpfeelは2007年にシリコンバレーにて創業後、「テクノロジーの発明により、人の可能性を拡張する」をVisionに掲げ、知識を届けるエンタープライズサーチ「Helpfeel」知識を磨き上げるアイディエーションツール「Scrapbox」情報を知識にするメディアキャプチャー「Gyazo」という3つのプロダクトの開発、運営を行っています。開発メンバー募集中です！
+　
 
 //embed{
 \begin{center}
-    \vspace{10pt}
-    \includegraphics[width=0.3\linewidth]{images/chap-sponsor-index/hatena.png}
-    \vspace{10pt}
+    \includegraphics[width=0.5\linewidth]{images/chap-sponsor-index/sakura.png}
 \end{center}
 //}
 
-@<em>{株式会社はてな}
+@<em>{さくらインターネット株式会社}
 
-https://hatenablog.com/
+https://www.sakura.ad.jp/
 
-はてなが提供する「はてなブログ」は、前身となる「はてなダイアリー」から数えると20年以上続くブログサービスです。インターネットとともに成長し、個人の方から企業の方まで、さまざまな技術ブログが書かれてきました。個人の方では、技術的な学びの場所として、日々の考えを書き留めたり、学んだことをまとめたりされる方が多いです。また、はてなブログの企業技術ブログコミュニティは、400社以上が参加する一大コミュニティに成長しています。
+さくらインターネットは、国内最大級の大容量・高速バックボーンを誇る自社運営データセンターを活かして、レンタルサーバ（ホスティング）、専用サーバ、ドメイン、データ
+センター（コロケーション）、インターネット接続サービスをご提供しています。
+
+エンジニアによる情報発信も積極的に行っており、技術情報サイト「さくらのナレッジ」や自社
+イベント「さくらの夕べ」「さくらのマイクロコミュニティ」などを運営しています。
+
 
 //embed{
 \begin{center}
@@ -130,21 +102,20 @@ https://www.shoeisha.co.jp/
 
 //embed{
 \begin{center}
-    \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/lisse.png}
-    \vspace{10pt}
+    \includegraphics[width=0.5\linewidth]{images/chap-sponsor-index/peoplesoftware.png}
 \end{center}
 //}
 
-@<em>{株式会社リセ}
+@<em>{ピープルソフトウェア株式会社}
 
-https://lisse-law.com/
+https://pscsrv.co.jp/
 
-株式会社リセは『争いのない「滑らかな」企業活動の実現』を目指して、契約書レビュー支援AIクラウド「LeCHECK」などのプロダクトを展開しているリーガルテックスタートアップです。社名となっている「リセ（Lisse）」にはフランス語で「滑らかな」という意味があり、法的紛争を世の中から無くしたいという代表の想いが表れています。
+ピープルソフトウェア株式会社は、岡山県倉敷市に本社を置くソフトウェア開発企業です。
+事業内容は受託のほか、自社プロダクトも手掛けています。
 
-「LeCHECK」は弁護士事務所様や事業会社の法務部様などによくお使いいただいており、毎年右肩上がりでの成長率を実現しています。2023年夏に大規模な資金調達を実施、2023年末にはオフィス移転を行うなど、プロダクトに合わせて組織も急拡大中です。
-
-//pagebreak
+自社プロダクト事業では、スマホアプリ開発バックエンドツール（BaaS@rakuza）を
+保有し、小売業向けアプリ「AppShips」、ミュージアム向けアプリ「MUSENAVI」など
+特色あるサービスを提供しています。
 
 == プリンティングサポーター
 
