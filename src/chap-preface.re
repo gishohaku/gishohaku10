@@ -59,12 +59,12 @@ https://blog.gishohaku.dev/entry/2023/09/04/131252
     \begin{figure}[htbp]
         \begin{minipage}[b]{0.45\linewidth}
             \centering
-            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku9-enquete-visitor.png}
+            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku10-enquete-visitor.png}
             \caption{一般参加者向けアンケート}
         \end{minipage}
         \begin{minipage}[b]{0.45\linewidth}
             \centering
-            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku9-enquete-circle.png}
+            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku10-enquete-circle.png}
             \caption{サークル向けアンケート}
         \end{minipage}
     \end{figure}
