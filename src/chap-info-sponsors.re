@@ -24,15 +24,28 @@ https://systemi.co.jp/
 
 
 == サポーター
+//embed{
+\begin{center}
+    \vspace{10pt}
+    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/wealthnavi.png}
+    \vspace{10pt}
+\end{center}
+//}
 
-ウェルスナビ
+@<em>{ウェルスナビ株式会社}
+
+https://corp.wealthnavi.com/
+
+ウェルスナビ株式会社では「働く世代に豊かさを」 をミッションに掲げ、資産運用ロボアドバイザー “WealthNavi” の開発、提供を行っています。
+
+今後はロボアドバイザーサービスや「おまかせNISA」の普及を加速させ、生涯にわたりお客さまのお金の悩みを解決する総合アドバイザリー・プラットフォーム（MAP：Money Advisory Platform）の提供に向けて開発を進めていきます。
 
 
 
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/kintone.png}
+    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/lpi.png}
     \vspace{10pt}
 \end{center}
 //}
@@ -45,9 +58,23 @@ LPI-Japanは、Linux技術者認定「LinuC（リナック）」などの技術�
 
 また、ITエンジニアを目指す初学者向けの教材として無償で公開（製本版は有償）している「Linux標準教科書」や「サーバー構築標準教科書」などは、Linuxの操作やサーバー構築に必要な知識を体系立てて学べる教材として、多くの皆様にご利用いただいています。
 
+　
 
+//embed{
+\begin{center}
+    \vspace{10pt}
+    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/kikkake.png}
+    \vspace{10pt}
+\end{center}
+//}
 
-キッカケクリエイション
+@<em>{株式会社キッカケクリエイション}
+
+https://kikkakecreation.com/
+
+株式会社キッカケクリエイションでは、国内最大級のIT転職YouTubeメディア「モローチャンネル」を運営しております（月間再生数120万）。
+
+また、エンジニアのキャリア支援をする転職支援サービス「KIKKAKE AGENT」を提供しております。エンジニアのキャリアの専門家が今後のキャリアパスや転職市場の情報提供を行い、大手企業を中心とした1,000社以上の企業様へご紹介を行っております。
 
 　
 
@@ -89,7 +116,7 @@ https://www.sakura.ad.jp/
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/shoeisha.png}
+    \includegraphics[width=0.4\linewidth]{images/chap-sponsor-index/shoeisha.png}
     \vspace{10pt}
 \end{center}
 //}
@@ -122,7 +149,7 @@ https://pscsrv.co.jp/
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/shimaya.png}
+    \includegraphics[width=0.4\linewidth]{images/chap-sponsor-index/shimaya.png}
     \vspace{10pt}
 \end{center}
 //}
