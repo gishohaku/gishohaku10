@@ -27,7 +27,7 @@ https://systemi.co.jp/
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/wealthnavi.png}
+    \includegraphics[width=0.28\linewidth]{images/chap-sponsor-index/wealthnavi.png}
     \vspace{10pt}
 \end{center}
 //}
@@ -45,7 +45,7 @@ https://corp.wealthnavi.com/
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/lpi.png}
+    \includegraphics[width=0.28\linewidth]{images/chap-sponsor-index/lpi.png}
     \vspace{10pt}
 \end{center}
 //}
@@ -58,12 +58,11 @@ LPI-Japanは、Linux技術者認定「LinuC（リナック）」などの技術�
 
 また、ITエンジニアを目指す初学者向けの教材として無償で公開（製本版は有償）している「Linux標準教科書」や「サーバー構築標準教科書」などは、Linuxの操作やサーバー構築に必要な知識を体系立てて学べる教材として、多くの皆様にご利用いただいています。
 
-　
 
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/kikkake.png}
+    \includegraphics[width=0.35\linewidth]{images/chap-sponsor-index/kikkake.png}
     \vspace{10pt}
 \end{center}
 //}
@@ -76,12 +75,12 @@ https://kikkakecreation.com/
 
 また、エンジニアのキャリア支援をする転職支援サービス「KIKKAKE AGENT」を提供しております。エンジニアのキャリアの専門家が今後のキャリアパスや転職市場の情報提供を行い、大手企業を中心とした1,000社以上の企業様へご紹介を行っております。
 
-　
+
 
 //embed{
 \begin{center}
     \vspace{10pt}
-    \includegraphics[width=0.25\linewidth]{images/chap-sponsor-index/kintone.png}
+    \includegraphics[width=0.3\linewidth]{images/chap-sponsor-index/kintone.png}
     \vspace{10pt}
 \end{center}
 //}
@@ -98,7 +97,7 @@ https://kintone.cybozu.co.jp/
 
 //embed{
 \begin{center}
-    \includegraphics[width=0.5\linewidth]{images/chap-sponsor-index/sakura.png}
+    \includegraphics[width=0.4\linewidth]{images/chap-sponsor-index/sakura.png}
 \end{center}
 //}
 

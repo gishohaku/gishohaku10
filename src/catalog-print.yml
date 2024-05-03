@@ -29,4 +29,5 @@ CHAPS:
     - chap-staff-circle-definition.re
 
 POSTDEF:
+  - chap-printing.re
   - chap-contributors.re
