@@ -15,6 +15,7 @@
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=2]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=3]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=4]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
+		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=75]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=5]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=6]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=7]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
@@ -84,7 +85,6 @@
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=71]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=72]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=73]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=74]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=75]{images/chap-circle-appeals/circle-appeals-all.pdf}
+        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=74]{images/chap-circle-appeals/circle-appeals-all.pdf}
     \end{center}
 //}

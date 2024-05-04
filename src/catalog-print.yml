@@ -27,6 +27,7 @@ CHAPS:
 
   - chap-title-staff.re:
     - chap-staff-circle-definition.re
+    - chap-staff-party.re
 
 POSTDEF:
   - chap-printing.re

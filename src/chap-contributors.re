@@ -43,8 +43,8 @@
 
 //embed{
 
-\contributor{まかろに}{@makaroninita}{images/contributors/makaroni.jpg}{
-IT企業勤務の会社員です。趣味で情報評論の同人誌を書いてます。残り僅かな今年の目標は、クリスマスと冬コミを思いっきり楽しむことです。冬コミは昨年行ったマルタ共和国での社会人語学留学についての新刊を出す予定です。2日目東キ22bで参加するのでよかったら遊びに来てください！
+\contributor{Cucu}{@CuCu\_0305}{images/contributors/cucu-icon.jpg}{
+Webエンジニアとしての仕事の傍ら、アニメ風のイラストを描いています。最近はデザインにも挑戦中で、本の表紙をイラスト込みでデザインできます。お仕事のご相談やご質問がありましたらお気軽にどうぞ。
 }
 
 \contributor{のりこ}{@noriko\_ro}{images/contributors/noriko.png}{
