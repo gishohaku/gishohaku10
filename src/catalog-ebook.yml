@@ -11,28 +11,24 @@ CHAPS:
     - chap-info-stage.re
     - chap-info-award.re
     - chap-info-sponsors.re
+    - chap-taruzake.re
+    - chap-interview.re
 
   - chap-title-circle.re:
     - chap-circle-list.re
     - chap-circle-layout.re
     - chap-circle-appeals.re
 
-  - chap-title-publisher.re:
-    - chap-publisher-about.re
-    - chap-publisher-osawa.re
-    - chap-publisher-masui.re
-    - chap-publisher-appeals.re
-
   - chap-title-sponsor.re:
-    - chap-sponsor-hatena.re
+    - chap-sponsor-sakura.re
+    - chap-sponsor-kintone.re
+    - chap-sponsor-wealthnavi.re
+    - chap-sponsor-kikkake.re
 
   - chap-title-staff.re:
-    - chap-staff-lookfor.re
     - chap-staff-circle-definition.re
-    - chap-staff-gas2discord.re
-
-  - chap-title-printing.re:
-    - chap-printing-appeals.re
+    - chap-staff-party.re
 
 POSTDEF:
+  - chap-printing.re
   - chap-contributors.re
